@@ -19,7 +19,7 @@ def main():
     for i in range(2, 5):
         for h in doc.find_all(f'h{i}'):
             an_id = h.attrs['id']
-            text     = h.text.lstrip('#')
+            text= h.text.lstrip('#')
             first_letter = text[0]
             hhh[first_letter][text].append(an_id)
     print_hhh(hhh)
