@@ -61,3 +61,4 @@ Printing the PDF
 * Open the PDF that was optimized for printing in Chrome and print on A4 on both sides with default margins, scale 98% and no headers and footers.
 
 Привет, я очень устал
+Я хочу печеньку
